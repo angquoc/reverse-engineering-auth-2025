@@ -1,6 +1,7 @@
 # Phân tích bảo mật phần mềm (Reverse Engineering) – Dự án nhóm (2025)
 
-> Mục đích **giáo dục**: phân tích cơ chế xác thực trong một file crackme; **không** nhằm mục đích thương mại hay phá hoại. Xem thêm: [`DISCLAIMER.md`](DISCLAIMER.md).
+> Mục đích **giáo dục**: phân tích cơ chế xác thực trong một file crackme; **không** nhằm mục đích thương mại hay phá hoại.
+> Xem thêm: [`DISCLAIMER.md`](DISCLAIMER.md).
 
 ## Tổng quan
 - Làm việc theo nhóm; **mỗi thành viên phân tích 1 file** crackme khác nhau.
