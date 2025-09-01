@@ -20,4 +20,4 @@
 Reverse engineering, đọc Assembly cơ bản, C++, teamwork.
 
 ## Liên hệ
-📫 [angquoc](https://github.com/angquoc)
+[angquoc](https://github.com/angquoc)
