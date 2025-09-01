@@ -1,7 +1,6 @@
 # Phân tích bảo mật phần mềm (Reverse Engineering) – Dự án nhóm (2025)
 
 > Mục đích **giáo dục**: phân tích cơ chế xác thực trong một file crackme; **không** nhằm mục đích thương mại hay phá hoại.
-> Xem thêm: [`DISCLAIMER.md`](DISCLAIMER.md).
 
 ## Tổng quan
 - Làm việc theo nhóm; **mỗi thành viên phân tích 1 file** crackme khác nhau.
@@ -14,8 +13,8 @@
 - Viết chương trình **keygen** mô phỏng thuật toán tạo khóa từ username.
 
 ## Kết quả
-- Báo cáo nhóm (full): 
-- Code cá nhân:
+- Báo cáo nhóm (full): [`report/group-report.pdf`](report/group-report.pdf)
+- Code cá nhân: [`my-code/Bai3.cpp`](my-code/Bai3.cpp)
 
 ## Kỹ năng
 Reverse engineering, đọc Assembly cơ bản, C++, teamwork.
