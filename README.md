@@ -7,7 +7,7 @@
 - Công cụ: **OllyDbg**, **IDA**.
 - Ngôn ngữ keygen cá nhân: **C++**.
 
-## Vai trò cá nhân
+## Công việc phụ trách
 - Phân tích đoạn mã sinh khóa (keygen routine) của file được giao.
 - Giải thích luồng xác thực và ý nghĩa các lệnh Assembly liên quan.
 - Viết chương trình **keygen** mô phỏng thuật toán tạo khóa từ username.
@@ -17,7 +17,10 @@
 - Code cá nhân: [`my-code/Bai3.cpp`](my-code/Bai3.cpp)
 
 ## Kỹ năng đạt được
-Reverse engineering, đọc Assembly cơ bản, C++, teamwork.
+- Reverse engineering cơ bản, đọc và phân tích Assembly.  
+- Viết báo cáo.
+- Teamwork.
+- Quản lý tốt deadline.  
 
 ## Liên hệ
 [angquoc](https://github.com/angquoc)
