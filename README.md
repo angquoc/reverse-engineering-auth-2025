@@ -3,7 +3,7 @@
 > Mục đích **giáo dục**: phân tích cơ chế xác thực trong một file crackme; **không** nhằm mục đích thương mại hay phá hoại.
 
 ## Tổng quan
-- Làm việc theo nhóm; **mỗi thành viên phân tích 1 file** crackme khác nhau.
+- Làm việc theo nhóm; **mỗi thành viên phân tích 1 file** crackme khác nhau và kiểm tra chéo kết quả.
 - Công cụ: **OllyDbg**, **IDA**.
 - Ngôn ngữ keygen cá nhân: **C++**.
 
@@ -16,7 +16,7 @@
 - Báo cáo nhóm (full): [`report/group-report.pdf`](report/group-report.pdf)
 - Code cá nhân: [`my-code/Bai3.cpp`](my-code/Bai3.cpp)
 
-## Kỹ năng
+## Kỹ năng đạt được
 Reverse engineering, đọc Assembly cơ bản, C++, teamwork.
 
 ## Liên hệ
