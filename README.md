@@ -13,7 +13,7 @@
 - Viết chương trình **keygen** mô phỏng thuật toán tạo khóa từ username.
 
 ## Kết quả
-- Báo cáo nhóm (full): [`report/group-report.pdf`](report/group-report.pdf)
+- Báo cáo nhóm (full): [`report/group-report.pdf`](https://angquoc.github.io/reverse-engineering-auth-2025/report/group-report.pdf)
 - Code cá nhân: [`my-code/Bai3.cpp`](my-code/Bai3.cpp)
 
 ## Kỹ năng đạt được
